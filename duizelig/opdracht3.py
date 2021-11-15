@@ -5,8 +5,3 @@ while i >= 20:
     i = i + 2
     if i == 50:
         break
-
-
-
-# for i in range(20, 50, +2):
-    # print(i)
